@@ -1,4 +1,4 @@
-# projectName
+# Template for django react projects
 
 This project is dope
 
