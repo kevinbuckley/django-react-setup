@@ -1,4 +1,4 @@
-# Therapy Jawn
+# projectName
 
 This project is dope
 
@@ -8,8 +8,8 @@ Make sure you have [docker](https://docs.docker.com/install/) and [docker-compos
 
 ```shell
 ## SETUP
-docker-machine create therapyjawn
-docker-machine env therapyjawn >> .env
+docker-machine create projectName
+docker-machine env projectName >> .env
 
 ## JUST RUN THIS GOING FORWARD
 docker-compose up  
